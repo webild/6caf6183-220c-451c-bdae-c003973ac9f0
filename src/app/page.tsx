@@ -13,7 +13,8 @@ export default function Home() {
       <NavbarStyleMinimal
         logoSrc="/images/logo.svg"
         logoAlt="Sample Brand"
-        buttonText="Get Started"
+        leftButtonText="Get Started"
+        onLeftButtonClick={() => {}}
         className=""
       />
 
